@@ -1,0 +1,17 @@
+PS C:\Users\Vishnu Bansal> cd "c:\Users\Vishnu Bansal\Desktop\ds assi\" ; if ($?) { g++ Family_Linked_list-21104042.cpp -o Family_Linked_list-21104042 } ; if ($?) { .\Family_Linked_list-21104042 }
+Enter the number of family members:  5
+Enter the name of  member: vishnu 
+Enter the age of member: 21
+Enter the name of  member: rishit
+Enter the age of member: 20
+Enter the name of  member: harman
+Enter the age of member: 19
+Enter the name of  member: vaibhav
+Enter the age of member: 18
+Enter the name of  member: kunal
+Enter the age of member: 17
+vishnu 21
+rishit 20
+harman 19
+vaibhav 18
+kunal 17
